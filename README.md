@@ -18,5 +18,5 @@ My name is Nelson Meira. I'm a Computer Science student on CESAR School (Brazil)
 
 ## Social 📞
 
-[![Linkedin: Nelson](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nelson-meira-14161a3a0/](https://www.linkedin.com/in/nelml/))
+[![Linkedin: Nelson](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelml/)
 [![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
